@@ -42,3 +42,5 @@ window.wechatData = {
   description: "DellEMC 欢迎您！",
   imgUrl: "http://resource.witvan.com/img/emc/EMC_building.jpg"
 };
+
+3. Please add jobId parameter to  the final link for distribution, e.g. http://emc.witvan.com/jobs/xxx.html?jobId=xxx
