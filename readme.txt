@@ -19,5 +19,6 @@ server {
     }
 }
 
-visit http://emc.witvan.com to test env setup
+setup database:
+run the script in db.sql to create database and tables
 
